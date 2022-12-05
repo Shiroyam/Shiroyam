@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+
+<h1>Technologies & Tools ⚙️</h1>
+
+<img src="https://img.shields.io/badge/HTML5-2c2c37?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-2c2c37?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Sass-2c2c37?style=for-the-badge&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JavaScript-2c2c37?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/NodeJs-2c2c37?style=for-the-badge&logo=Node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/TypeScript-2c2c37?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/React-2c2c37?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/NextJs-2c2c37?style=for-the-badge&logo=Next.js&logoColor=000000"/> <img src="https://img.shields.io/badge/Redux-2c2c37?style=for-the-badge&logo=Redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/Express-2c2c37?style=for-the-badge&logo=Express&logoColor=000000"/> <img src="https://img.shields.io/badge/NestJS-2c2c37?style=for-the-badge&logo=NestJS&logoColor=E0234E"/> <img src="https://img.shields.io/badge/MongoDB-2c2c37?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-2c2c37?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"/>
+
+
+
+
 
 <!--
 **Shiroyam/Shiroyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
