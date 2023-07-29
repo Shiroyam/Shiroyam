@@ -1,6 +1,10 @@
 <h1>Hi there  <img src="gif/bee.gif" width="40" height="40"></h1>
 I love developing applications with React using Typescript
 
+<h1>Important repositories <img src="gif/minecraftchestop.GIF" width="40" height="40"></h1>
+
+- [🎯 aimtrain](https://github.com/Shiroyam/aimtrain.ru) / [aimtrain.ru](http://aimtrain.ru/) — Website with a minimalist design for aim testing.
+
 <h1>Technologies & Tools  <img src="gif/craftingtable.GIF" width="40" height="40"></h1>
 
 <img src="https://img.shields.io/badge/HTML5-2c2c37?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-2c2c37?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Sass-2c2c37?style=for-the-badge&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JavaScript-2c2c37?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-2c2c37?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/React-2c2c37?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/NextJs-2c2c37?style=for-the-badge&logo=Next.js&logoColor=000000"/> <img src="https://img.shields.io/badge/Redux-2c2c37?style=for-the-badge&logo=Redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/Webpack-2c2c37?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9"/> <img src="https://img.shields.io/badge/Vite-2c2c37?style=for-the-badge&logo=Vite&logoColor=#646CFF"/>
