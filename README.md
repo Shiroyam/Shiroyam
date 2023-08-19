@@ -1,5 +1,5 @@
 <h1>Hi there  <img src="gif/bee.gif" width="40" height="40"></h1>
-I love developing applications with React using Typescript
+I prefer developing applications with React using Typescript.
 
 <h1>Important repositories <img src="gif/minecraftchestop.GIF" width="40" height="40"></h1>
 
